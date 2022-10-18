@@ -10,7 +10,7 @@
 
   ## Submission
   [Link to Heroku Site](https://murmuring-cove-59463.herokuapp.com/)
-t
+
   ## Description
   This progressive web application is a text editor that users can download to their local computer. This application can be used online and offline.
 
